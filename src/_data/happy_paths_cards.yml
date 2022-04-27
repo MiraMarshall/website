@@ -1,0 +1,24 @@
+- name: Ads
+  image: /assets/images/docs/happy-paths/HappyPaths_Icon_Ad_2d.png
+  description: Set up your environment and start building.
+  url: /happy-paths/paths/ads.md
+- name: Geolocation
+  image: /assets/images/docs/happy-paths/HappyPaths_Icon_Geolocation_2d.png
+  description: Dip into the rich set of Flutter widgets available in the SDK.
+  url: /happy-paths/paths/geolocation.md
+- name: Immutable Data
+  image: /assets/images/docs/happy-paths/HappyPaths_Icon_ImmutableData_2d.png
+  description: Bookmark the API reference docs for the Flutter framework.
+  url: /happy-paths/paths/immutable_data.md
+- name: Structured Local Storage
+  image: /assets/images/docs/happy-paths/HappyPaths_Icon_Storage_2d.png
+  description: Browse the cookbook for many easy Flutter recipes.
+  url: /happy-paths/paths/structured_local_storage.md
+- name: Background Processing
+  image: /assets/images/docs/happy-paths/HappyPaths_Icon_Processing_2d.png
+  description: Check out the Flutter examples.
+  url: /happy-paths/paths/background_processing.md
+- name: Web Sockets
+  image: /assets/images/docs/happy-paths/HappyPaths_Icon_WebSockets_2d.png
+  description: View the many videos on the Flutter YouTube channel.
+  url: /happy-paths/paths/web_sockets.md

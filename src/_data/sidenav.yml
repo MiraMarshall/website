@@ -45,6 +45,8 @@
       permalink: /codelabs
     - title: Tutorials
       permalink: /reference/tutorials
+    - title: Happy Paths
+      permalink: /happy-paths
 
 - title: Development
   expanded: true
